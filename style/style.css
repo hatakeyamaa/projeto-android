@@ -21,7 +21,6 @@
 
 *{
     font-family: var(--fonte0);
-    text-align: justify;
     padding: 0px;
     margin: 0px;
 }
@@ -100,6 +99,7 @@ main h1{
 }
 
 main p{
+    text-align: justify;
     text-indent: 3em;
 }
 
