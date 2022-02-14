@@ -163,6 +163,7 @@ div#video > iframe{
 }
 
 aside{
+    padding: 10px;
     background-color: var(--cor1);
     margin-top: 10px;
     border-radius: 10px;
@@ -176,6 +177,7 @@ aside > ul{
 }
 
 aside > h3{
+    margin: -10px -10px 0px;
     font-size: 0.9em;
     background-color: var(--cor3);
     color: white;
